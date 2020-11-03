@@ -1,0 +1,7 @@
+*.pyc
+tmp/*
+*#*
+*~
+__pycache__
+.idea
+testdb.sqlite3
